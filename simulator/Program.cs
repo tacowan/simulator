@@ -13,7 +13,6 @@ namespace simulator
     {
         private static DeviceClient s_deviceClient;
         //private readonly static string s_connectionString = 
-        //"HostName=simulations.azure-devices.net;DeviceId=device1;SharedAccessKey=EGlUiMLUmwcuwavRLalnteyzZ/JlOt0KiEcLqbmLXYg=";
         static void Main(string[] args)
         {
             Console.WriteLine("Simulation started");
